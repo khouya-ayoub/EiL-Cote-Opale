@@ -1,0 +1,11 @@
+com/exemple/td5_recycleview/BuildConfig.java
+ com.exemple.td5_recycleview.BuildConfig
+com/exemple/td5_recycleview/models/Contact.java
+ com.exemple.td5_recycleview.models.Contact
+com/exemple/td5_recycleview/activities/ContactActivity.java
+ com.exemple.td5_recycleview.activities.ContactActivity
+com/exemple/td5_recycleview/activities/MainActivity.java
+ com.exemple.td5_recycleview.activities.MainActivity
+com/exemple/td5_recycleview/adapters/ContactsAdapter.java
+ com.exemple.td5_recycleview.adapters.ContactsAdapter
+ com.exemple.td5_recycleview.adapters.ContactsAdapter$ViewHolder
